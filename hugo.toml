@@ -4,6 +4,7 @@ title = 'SIFA Game'
 theme = 'paper'
 enableEmoji = true
 comments = false
+googleAnalytics = "G-4DGYDNQTSQ"
 
 [params]
   logo = '/sifa.svg'
