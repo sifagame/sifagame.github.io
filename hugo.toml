@@ -1,0 +1,30 @@
+baseURL = 'https://sifa.game/'
+languageCode = 'en-us'
+title = 'SIFA Game'
+theme = 'paper'
+enableEmoji = true
+comments = false
+
+[params]
+  logo = '/sifa.svg'
+
+  # color style
+  color = 'gray'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'sifagame'                 # github.com/YOUR_GITHUB_ID
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+
+[menu]
+  [[menu.main]]
+    identifier = "roadmap"
+    name = "Roadmap"
+    url = "/#roadmap"
+    weight = 10
