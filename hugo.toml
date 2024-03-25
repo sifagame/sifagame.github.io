@@ -14,6 +14,7 @@ googleAnalytics = "G-4DGYDNQTSQ"
 
   # header social icons
   github = 'sifagame'                 # github.com/YOUR_GITHUB_ID
+  twitter = 'sifagame'
 
   # misc
   disableHLJS = true                        # disable highlight.js
