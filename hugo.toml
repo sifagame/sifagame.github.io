@@ -1,12 +1,13 @@
 baseURL = 'https://sifa.game/'
 languageCode = 'en-us'
-title = 'SIFA Game'
+title = 'SIFA'
 theme = 'paper'
 enableEmoji = true
 comments = false
 googleAnalytics = "G-4DGYDNQTSQ"
 
 [params]
+  description = 'A Web3 Game'
   logo = '/sifa.svg'
 
   # color style
