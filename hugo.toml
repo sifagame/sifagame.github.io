@@ -27,12 +27,17 @@ googleAnalytics = "G-4DGYDNQTSQ"
 
 [menu]
   [[menu.main]]
+    identifier = "testnet"
+    name = "🧪 Testnet"
+    url = "https://testnet.sifa.game"
+    weight = 5
+  [[menu.main]]
     identifier = "roadmap"
     name = "Roadmap"
     url = "/#roadmap"
     weight = 10
   [[menu.main]]
-    identifier = "testnet"
-    name = "🧪 Testnet"
-    url = "https://testnet.sifa.game"
-    weight = 5
+    identifier = "telegram"
+    name = "Telegram"
+    url = "https://t.me/SifaGameOfficial"
+    weight = 20
