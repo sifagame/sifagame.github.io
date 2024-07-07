@@ -31,3 +31,8 @@ googleAnalytics = "G-4DGYDNQTSQ"
     name = "Roadmap"
     url = "/#roadmap"
     weight = 10
+  [[menu.main]]
+    identifier = "testnet"
+    name = "🧪 Testnet"
+    url = "https://testnet.sifa.game"
+    weight = 5
